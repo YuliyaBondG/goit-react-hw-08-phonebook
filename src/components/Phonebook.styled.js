@@ -15,8 +15,8 @@ export const Container = styled.div`
 `;
 
 export const Title = styled.h2`
-  padding-top: 30px;
   padding-bottom: 30px;
+  padding-top: 30px;
   margin: 0;
   text-align: center;
   font-weight: normal;
